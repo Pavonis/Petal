@@ -24,6 +24,7 @@
 		C77C0FC716B4BEB3004A0518 /* AwesomeMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C77C0FC416B4BEB3004A0518 /* AwesomeMenu.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		C77C0FC816B4BEB3004A0518 /* AwesomeMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = C77C0FC616B4BEB3004A0518 /* AwesomeMenuItem.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		C77C0FCF16B4BF3A004A0518 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77C0FCE16B4BF3A004A0518 /* QuartzCore.framework */; };
+		C7CD8EDB16B4F62100A3EB30 /* PetalDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = C7CD8EDA16B4F62100A3EB30 /* PetalDocument.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,8 @@
 		C77C0FC516B4BEB3004A0518 /* AwesomeMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AwesomeMenuItem.h; path = AwesomeMenu/AwesomeMenuItem.h; sourceTree = "<group>"; };
 		C77C0FC616B4BEB3004A0518 /* AwesomeMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AwesomeMenuItem.m; path = AwesomeMenu/AwesomeMenuItem.m; sourceTree = "<group>"; };
 		C77C0FCE16B4BF3A004A0518 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		C7CD8ED916B4F62100A3EB30 /* PetalDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PetalDocument.h; sourceTree = "<group>"; };
+		C7CD8EDA16B4F62100A3EB30 /* PetalDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PetalDocument.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 		C753F2C4164F57740007F073 /* Petal */ = {
 			isa = PBXGroup;
 			children = (
+				C7CD8ED916B4F62100A3EB30 /* PetalDocument.h */,
+				C7CD8EDA16B4F62100A3EB30 /* PetalDocument.m */,
 				C77C0FC316B4BEB3004A0518 /* AwesomeMenu.h */,
 				C77C0FC416B4BEB3004A0518 /* AwesomeMenu.m */,
 				C77C0FC516B4BEB3004A0518 /* AwesomeMenuItem.h */,
@@ -208,6 +213,7 @@
 				C732DADD16B4B4F100E9DAB1 /* SettingsTableViewController.m in Sources */,
 				C77C0FC716B4BEB3004A0518 /* AwesomeMenu.m in Sources */,
 				C77C0FC816B4BEB3004A0518 /* AwesomeMenuItem.m in Sources */,
+				C7CD8EDB16B4F62100A3EB30 /* PetalDocument.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

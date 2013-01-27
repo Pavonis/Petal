@@ -1,6 +1,6 @@
 Petal:
 	- Implement Correct display of Path Actions Menu for Master and Detail View Controller
-	- Implement settings data
+	- Implement settings data for row and section.
 	Document View:
 		New Document:
 			- Default Styling
