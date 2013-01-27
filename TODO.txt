@@ -1,0 +1,36 @@
+Petal:
+	Document View:
+		New Document:
+			- Default Styling
+			- Title Bar
+			- Tutorial @?
+		Editing:
+		Gestures (on keyboard region):
+			- Swipe left/right to change indent level
+			- Swipe up/down to change position
+			- Pinch @?
+			- Multifinger swipe @?
+		Tool Bar / Stat Bar:
+			- Change indent level
+			- Change numbering / style
+			- Change theme
+			- Add photo
+			- Word/character counts
+			- Full screen mode
+			- Markdown editing tools
+		In-Document Controls:
+			- Reordering of items
+			- restyling of list items
+			- deleting items @?
+		Keyboard Controls:
+			- Return Makes new item
+			- Add'l Return decrements list level
+			- double-tap (T&h?) to increase level @?
+	Navigation View:
+	Settings View:
+	Model:
+		Database or document-backed stoarge system?
+		Handlesbars + database insertion
+		Template HTML Sheets
+	View Controller:
+	

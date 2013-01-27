@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AwesomeMenu.h"
+#import "AwesomeMenuItem.h"
 
-@interface MasterViewController : UITableViewController
+@interface MasterViewController : UITableViewController 
+
+- (IBAction)didSelectSettings:(id)sender;
 
 @end
+
+
