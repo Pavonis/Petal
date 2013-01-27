@@ -7,8 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "AwesomeMenu.h"
-#import "AwesomeMenuItem.h"
 
 @interface MasterViewController : UITableViewController 
 
